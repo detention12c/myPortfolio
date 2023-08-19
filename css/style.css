@@ -209,8 +209,8 @@ a:hover{
     }
     .front-end{
         margin: 0;
-        width: 200px;
-        height: 200px;
+        width: 150px;
+        height: 150px;
     }
     .blender{
         display: none;
@@ -219,8 +219,8 @@ a:hover{
         display: block;
     }
     .myblender{
-        width: 200px;
-        height: 200px;
+        width: 150px;
+        height: 150px;
     }
     .second-blend-intro{
         margin-top: 20px;
